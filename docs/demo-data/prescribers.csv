@@ -1,0 +1,6 @@
+prescriber_id,prescriber_name,practice_id,specialty
+DR01,Doctor Patel,PR01,Hepatology (adult)
+DR02,Doctor Reed,PR01,Pediatric hepatology
+DR03,Doctor Kim,PR02,Hepatology
+DR04,"(unnamed, female)",PR03,Gastroenterology
+DR05,(unnamed),PR04,Pediatric hepatology

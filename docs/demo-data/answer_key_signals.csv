@@ -1,0 +1,81 @@
+call_id,signal_id,signal,insight_type,use_case,source,keyword_check
+AB01,S12,Payer requires letter of medical necessity,Payer requirements,"UC1, UC4",Atul signal library,found: letter of medical necessity
+AB01,S13,Payer clinical criteria stated,Payer requirements,"UC1, UC4",Atul signal library,found: clinic notes; labs; alp; ursodiol
+AB01,S14,Covered with prior authorization,Payer requirements,"UC1, UC3, UC4",Atul signal library,found: covered; covered with a prior
+AB01,S19,Close: recap of exact documents,Call quality,UC4,Atul signal library,"found: to recap; just to recap; one,; two,"
+AB01,S20,Close: confirmed submission date,Call quality,UC4,Atul signal library,found: can you get that submitted by; by thursday
+AB01,S21,Close: follow-up committed,Call quality,UC4,Atul signal library,found: i'll call you friday
+AB01,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+AB02,S14,Covered with prior authorization,Payer requirements,"UC1, UC3, UC4",Atul signal library,found: covered; needs a prior authorization
+AB02,S16,Asked vs told mismatch,Payer requirements,"UC1, UC4",Atul signal library,rule-based (no keywords)
+AB02,S17,Vague requirement communicated,Payer requirements,UC4,Atul signal library,found: that kind of stuff; whatever the doctor usually sends; some clinical documentation
+AB02,S22,"Close: generic, no next step",Call quality,UC4,Atul signal library,found: let us know if you need anything; they'll let you know
+AB02,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+AB03,S13,Payer clinical criteria stated,Payer requirements,"UC1, UC4",Atul signal library,found: genetic test; itching documented
+AB03,S19,Close: recap of exact documents,Call quality,UC4,Atul signal library,found: to recap; so to recap; all of it to
+AB03,S20,Close: confirmed submission date,Call quality,UC4,Atul signal library,found: can you send it by; by friday; doable
+AB03,S21,Close: follow-up committed,Call quality,UC4,Atul signal library,found: i'll check in
+AB03,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+AB04,S17,Vague requirement communicated,Payer requirements,UC4,Atul signal library,found: the usual; i think they
+AB04,S22,"Close: generic, no next step",Call quality,UC4,Atul signal library,found: let us know if you need anything; you can probably find it
+AB04,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+AB05,S07,Repeat contact / callback,Process adherence,"UC2, UC4",Atul signal library,found: calling again; again about
+AB05,S12,Payer requires letter of medical necessity,Payer requirements,"UC1, UC4",Atul signal library,found: letter of medical necessity
+AB05,S15,PA pended or denied for missing documents,Payer requirements,"UC1, UC4",Atul signal library,found: pended; missing
+AB05,S16,Asked vs told mismatch,Payer requirements,"UC1, UC4",Atul signal library,rule-based (no keywords)
+AB05,S18,Office surprised by a requirement,Payer requirements,"UC1, UC4",Atul signal library,found: nobody told us; we sent what you said
+AB05,S37,Identity check done,Safety & compliance,All,Atul signal library,NO KEYWORD FOUND - review tag
+AB06,S21,Close: follow-up committed,Call quality,UC4,Atul signal library,NO KEYWORD FOUND - review tag
+AB06,S36,Positive resolution,Sentiment & engagement,"UC2, UC4",Atul signal library,found: that was fast; perfect
+AB06,S37,Identity check done,Safety & compliance,All,Atul signal library,NO KEYWORD FOUND - review tag
+DR01,S08,Promise with a date,Process adherence,"UC2, UC3",Atul signal library,found: i'll send
+DR01,S14,Covered with prior authorization,Payer requirements,"UC1, UC3, UC4",Atul signal library,found: covered; needs a prior authorization
+DR01,S23,Cost worry,Sentiment & engagement,UC3,Atul signal library,found: how much; out of pocket; deductible; a lot for us
+DR01,S24,Financial hardship,Sentiment & engagement,UC3,Atul signal library,found: out of work
+DR01,S30,Support offer made (protective),Sentiment & engagement,UC3,Atul signal library,found: copay program
+DR01,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth; confirm your date of birth; can you confirm
+DR02,S25,Logistics or distance barrier,Sentiment & engagement,UC3,Atul signal library,found: hours from me; three hours; each way; drive
+DR02,S30,Support offer made (protective),Sentiment & engagement,UC3,Atul signal library,found: closer to you
+DR02,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth; confirm your date of birth; can you confirm
+DR03,S08,Promise with a date,Process adherence,"UC2, UC3",Atul signal library,found: i'll check
+DR03,S26,Hesitation,Sentiment & engagement,UC3,Atul signal library,found: need to think about it; talk to my husband; not ready
+DR03,S27,Declines next step,Sentiment & engagement,UC3,Atul signal library,found: call me later; not ready to schedule
+DR03,S28,Assistance application not completed,Process adherence,UC3,Atul signal library,found: started it; haven't finished; application
+DR03,S37,Identity check done,Safety & compliance,All,Atul signal library,NO KEYWORD FOUND - review tag
+DR04,S10,Unreachable / voicemail,Process adherence,"UC2, UC3",Atul signal library,found: leave a message; voicemail; can't come to the phone; third attempt
+DR04,S15,PA pended or denied for missing documents,Payer requirements,"UC1, UC4",Atul signal library,NO KEYWORD FOUND - review tag
+DR04,S29,Outreach failing / referral at risk,Sentiment & engagement,UC3,Atul signal library,found: third attempt; close the referral
+DR04,S37,Identity check done,Safety & compliance,All,Atul signal library,NO KEYWORD FOUND - review tag
+ST01,S01,Prescriber signature missing,Process adherence,UC2,Atul signal library,found: isn't signed; signature line; attestation
+ST01,S06,Office staff unavailable,Process adherence,UC2,Atul signal library,found: out this week
+ST01,S08,Promise with a date,Process adherence,"UC2, UC3",Atul signal library,found: first thing monday
+ST01,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+ST02,S02,Insurance card copy missing,Process adherence,UC2,Atul signal library,found: insurance card; front and back; didn't get a copy
+ST02,S03,Fax / document transmission incomplete,Process adherence,UC2,Atul signal library,found: fax confirmation; only shows; pages; came through blank
+ST02,S06,Office staff unavailable,Process adherence,UC2,Atul signal library,found: short today
+ST02,S07,Repeat contact / callback,Process adherence,"UC2, UC4",Atul signal library,found: following up
+ST02,S08,Promise with a date,Process adherence,"UC2, UC3",Atul signal library,found: i'll check; i'll fax
+ST02,S36,Positive resolution,Sentiment & engagement,"UC2, UC4",Atul signal library,NO KEYWORD FOUND - review tag
+ST02,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+ST02,S38,Practice-level education need,Process adherence,UC2,Atul signal library,NO KEYWORD FOUND - review tag
+ST03,S04,Clinical data missing on form,Process adherence,UC2,Atul signal library,found: weight; diagnosis code; dose; prescription section
+ST03,S05,Patient / caregiver consent missing,Process adherence,UC2,Atul signal library,found: consent page; wasn't signed by; caregiver; mom can sign
+ST03,S06,Office staff unavailable,Process adherence,UC2,Atul signal library,found: is out; out sick; at a conference
+ST03,S08,Promise with a date,Process adherence,"UC2, UC3",Atul signal library,found: i'll follow up
+ST03,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+ST04,S04,Clinical data missing on form,Process adherence,UC2,Atul signal library,found: npi
+ST04,S06,Office staff unavailable,Process adherence,UC2,Atul signal library,found: not picking up; swamped
+ST04,S07,Repeat contact / callback,Process adherence,"UC2, UC4",Atul signal library,found: second call; my second; still need
+ST04,S10,Unreachable / voicemail,Process adherence,"UC2, UC3",Atul signal library,found: voicemail; away from my desk
+ST04,S11,Hold or transfer,Call quality,UC2,Atul signal library,found: can you hold; thanks for holding; transfer you; let me see if she's
+ST04,S13,Payer clinical criteria stated,Payer requirements,"UC1, UC4",Atul signal library,found: labs; alp; ursodiol
+ST04,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+ST05,S02,Insurance card copy missing,Process adherence,UC2,Atul signal library,found: insurance card; front and back; card copy; never attached
+ST05,S06,Office staff unavailable,Process adherence,UC2,Atul signal library,found: covering two jobs
+ST05,S07,Repeat contact / callback,Process adherence,"UC2, UC4",Atul signal library,NO KEYWORD FOUND - review tag
+ST05,S08,Promise with a date,Process adherence,"UC2, UC3",Atul signal library,found: i'll check; i'll send
+ST05,S09,Practice backlog acknowledged,Process adherence,UC2,Atul signal library,found: that's on us; pile up; covering two jobs; two weeks?
+ST05,S35,Frustration / repeated story,Sentiment & engagement,"UC2, UC3",Atul signal library,found: two weeks?; so sorry; ugh
+ST05,S36,Positive resolution,Sentiment & engagement,"UC2, UC4",Atul signal library,found: that would really help
+ST05,S37,Identity check done,Safety & compliance,All,Atul signal library,found: date of birth
+ST05,S38,Practice-level education need,Process adherence,UC2,Atul signal library,found: fifth patient; all held up

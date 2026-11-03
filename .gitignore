@@ -1,0 +1,13 @@
+# secrets and local env
+.env
+**/.env
+**/frontend/.env.local
+# Python / Node build and runtime output
+**/.venv/
+**/__pycache__/
+**/node_modules/
+**/dist/
+# local working data: uploaded audio, checkpoints, logs
+call-insights/data/
+call-insights/checkpoints/
+call-insights/logs/

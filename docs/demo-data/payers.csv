@@ -1,0 +1,4 @@
+payer_id,payer_name,aliases,status
+PY01,Summit Health Plan,Summit Health|Summit,named in UC4
+PY02,Crestline Insurance,Crestline,named in UC4
+PY99,(not stated),,payer not stated on the calls

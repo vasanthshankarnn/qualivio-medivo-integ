@@ -1,0 +1,16 @@
+[00:06] Patient (Teresa): Hi, this is Teresa.
+[00:08] Nurse educator (Rachel): Hi Teresa, this is Rachel, I'm a nurse educator with the Iqirvo patient support program. Is now still a good time for our call?
+[00:17] Patient (Teresa): Yes, I just got home from work.
+[00:21] Nurse educator (Rachel): Great. Can you confirm your date of birth for me?
+[00:24] Patient (Teresa): November third, seventy two.
+[00:26] Nurse educator (Rachel): Thank you. So today I just want to go over how Iqirvo works, what to expect when you start, and answer any questions. It's one tablet, once a day, and Doctor Patel will want to check your liver blood tests before you start and then regularly after that.
+[00:40] Patient (Teresa): Okay. Where do I have to go for the blood tests?
+[00:45] Nurse educator (Rachel): Usually at Doctor Patel's office, at the Lakeview liver center, unless they arrange a lab closer to you.
+[00:51] Patient (Teresa): See, that's the thing. Lakeview is about three hours from me, each way. Last time I had to take a whole day off work, and I really don't like driving the highway in the winter.
+[01:03] Nurse educator (Rachel): That's a long trip. Is there anyone who can drive you?
+[01:06] Patient (Teresa): Not really. My husband would, but we've only got the one car right now and he's out looking for work most days.
+[01:14] Nurse educator (Rachel): I understand. Let me make a note of that. I can ask Doctor Patel's office whether your labs can be done at a lab near you.
+[01:20] Patient (Teresa): That would help. I just don't know how I'm going to keep going back and forth up there every few months.
+[01:27] Nurse educator (Rachel): Let's take it one step at a time. Do you have any other questions about the medication itself?
+[01:32] Patient (Teresa): No, I think that's it for now.
+[01:34] Nurse educator (Rachel): Okay. You have my number if anything comes up. Take care, Teresa.

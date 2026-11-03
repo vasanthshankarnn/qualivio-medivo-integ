@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/
+logs/
+# frontend build output and local env
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/tsconfig.tsbuildinfo
+# call recordings are kept beside checkpoints, not in git
+checkpoints/*/audio/

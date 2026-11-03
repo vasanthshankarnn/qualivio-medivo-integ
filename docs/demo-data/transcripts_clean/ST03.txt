@@ -1,0 +1,13 @@
+[00:06] Office – Kevin: Lakeview pediatric hepatology, this is Kevin.
+[00:10] Hub agent (Jessica): Hi Kevin, it's Jessica with the Bylvay patient support program. I'm calling about a new enrollment for Ava Thompson, date of birth May ninth, twenty twenty two.
+[00:19] Office – Kevin: Oh, okay, Ava. Yeah, Doctor Reed wanted her started on Bylvay for her PFIC. What's going on with it?
+[00:25] Hub agent (Jessica): We got the form on Monday, but a few things are missing. We need Ava's current weight, because the dose is based on weight, the diagnosis code, and the caregiver consent page wasn't signed by her mom.
+[00:37] Office – Kevin: Ugh, okay. So Doctor Reed is at a conference until Thursday, and our nurse who usually does these is out sick.
+[00:44] Hub agent (Jessica): I'm sorry to hear that. The weight and diagnosis code should be in her chart from the last visit, so you may not need Doctor Reed for those.
+[00:52] Office – Kevin: True. I can see her weight from the January visit, it's fifteen point two kilos. The diagnosis code I'd have to check with someone.
+[00:59] Hub agent (Jessica): That's helpful. I'll note the weight on my side, but we'll still need it on the signed form. For the consent page, Mom can sign it at home, I can send it to her directly if that's easier.
+[01:10] Office – Kevin: Can you? That would be great. Can't you just pull the rest from our portal though?
+[01:14] Hub agent (Jessica): Unfortunately the prescription section needs the prescriber's signature on the form itself. Once Doctor Reed is back Thursday, if he can sign and add the diagnosis code, we can move straight to the insurance check.
+[01:26] Office – Kevin: Okay. I'll put it on his desk for Thursday.
+[01:29] Hub agent (Jessica): Thank you. I'll call Ava's mom today about the consent, and I'll follow up with you Friday morning.
+[01:34] Office – Kevin: Okay, thanks Jessica.

@@ -1,0 +1,14 @@
+[00:06] Patient (Teresa): Hello?
+[00:07] Hub case manager (Marcus): Hi Teresa, it's Marcus from the Iqirvo patient support program. Do you have a minute?
+[00:12] Patient (Teresa): Hi Marcus. Sure.
+[00:15] Hub case manager (Marcus): I have good news. Your prior authorization was approved this morning. The next step is the specialty pharmacy, they'll call you to schedule your first shipment. I can transfer you to them right now if you'd like.
+[00:25] Patient (Teresa): Oh. Okay... that's good.
+[00:28] Hub case manager (Marcus): You sound a little unsure. Is everything okay?
+[00:30] Patient (Teresa): It's just... with everything, the cost, the drive up to Lakeview for the labs... I need to think about it. Let me talk to my husband first.
+[00:39] Hub case manager (Marcus): Of course. Did you get a chance to send in the copay application?
+[00:42] Patient (Teresa): I started it. I haven't finished it yet.
+[00:46] Hub case manager (Marcus): Okay. If you finish that, it can make a big difference. Would you like me to stay on while we do the transfer, or would you rather they call you?
+[00:53] Patient (Teresa): Can they just call me later? I'm not ready to schedule anything today.
+[00:58] Hub case manager (Marcus): Sure, I'll let them know. And I'll check back with you next week. Is that okay?
+[01:03] Patient (Teresa): Yeah, that's fine. Thanks, Marcus.
+[01:06] Hub case manager (Marcus): Take care, Teresa.

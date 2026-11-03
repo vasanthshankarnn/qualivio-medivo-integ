@@ -1,0 +1,15 @@
+[00:06] Office – Denise: Lakeview Liver and Digestive Health, this is Denise. How can I help you?
+[00:12] Hub agent (Jessica): Hi Denise, this is Jessica, I'm an access specialist with the Iqirvo patient support program. I'm calling about an enrollment form your office faxed over for one of Doctor Patel's patients.
+[00:23] Office – Denise: Okay, sure. What's the patient's name?
+[00:26] Hub agent (Jessica): It's Robert Hayes, date of birth March fourteenth, nineteen sixty five.
+[00:32] Office – Denise: One second, let me pull him up... okay, Robert Hayes, I've got him. What do you need?
+[00:38] Hub agent (Jessica): So we received the form on February third, which is great, but the prescriber attestation on page two isn't signed. Without Doctor Patel's signature we can't open the case or start the benefits check with his insurance.
+[00:50] Office – Denise: Oh, okay. Um, so Karen is the nurse who handles all the specialty enrollment forms, and she's actually out this week.
+[00:59] Hub agent (Jessica): Okay. Is there anyone else who could walk the page over to Doctor Patel for a signature? It's just the one page.
+[01:06] Office – Denise: Honestly, I'd rather not mess with her stack. She has a whole system for these. She'll be back Monday.
+[01:14] Hub agent (Jessica): I understand. The only thing is Mister Hayes was diagnosed with PBC and he's been waiting to get started, so every few days counts for him.
+[01:22] Office – Denise: Yeah, no, I get it. I'll leave her a note to do it first thing Monday.
+[01:28] Hub agent (Jessica): That would be great. I'll re-fax page two with the signature line flagged, and I'll put a reminder to call back Monday afternoon if we haven't received it. Is this the best number for Karen?
+[01:39] Office – Denise: Yep, just ask for Karen, extension two fourteen.
+[01:43] Hub agent (Jessica): Perfect. Thanks so much, Denise.
+[01:46] Office – Denise: No problem. Bye now.

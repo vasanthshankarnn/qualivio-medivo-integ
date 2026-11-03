@@ -1,0 +1,11 @@
+patient_id,case_id,patient_name,dob,age_at_call,drug,indication,program_id,practice_id,prescriber_id,payer_id
+PAT-20311,20311,Robert Hayes,"March 14, 1965",,Iqirvo,PBC,PG01,PR01,DR01,PY99
+PAT-20348,20348,Linda Carter,"July 2, 1971",,Iqirvo,PBC,PG01,PR01,,PY99
+PAT-20377,20377,Ava Thompson,"May 9, 2022",4,Bylvay,PFIC,PG02,PR01,DR02,PY99
+PAT-20402,20402,Gary Nguyen,"October 21, 1959",,Iqirvo,PBC,PG01,PR01,DR01,PY99
+PAT-20419,20419,Noah Bennett,"August 30, 2017",9,Bylvay,Alagille syndrome,PG02,PR01,,PY99
+PAT-20455,20455,Teresa Alvarez,"November 3, 1972",,Iqirvo,PBC,PG01,PR01,DR01,PY99
+PAT-20501,20501,James Miller,"April 22, 1968",,Iqirvo,PBC,PG01,PR02,DR03,PY01
+PAT-20504,20504,Susan Clark,"January 9, 1963",,Iqirvo,PBC,PG01,PR03,DR04,PY01
+PAT-20512,20512,Liam Ortiz,"June 15, 2020",6,Bylvay,PFIC,PG02,PR01,DR02,PY02
+PAT-20515,20515,Mia Brooks,"September 3, 2019",7,Bylvay,Alagille syndrome,PG02,PR04,DR05,PY02

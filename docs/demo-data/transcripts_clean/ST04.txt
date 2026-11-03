@@ -1,0 +1,16 @@
+[00:06] Office – Brian: Thank you for calling Lakeview Liver and Digestive Health, this is Brian. Can you hold please?
+[00:12] Hub agent (Jessica): Sure.
+[00:13] [on hold ~4 s]
+[00:17] Office – Brian: Thanks for holding, how can I help?
+[00:20] Hub agent (Jessica): Hi Brian, this is Jessica from the Iqirvo patient support program. I'm calling about Gary Nguyen, date of birth October twenty first, nineteen fifty nine. I need to speak with whoever handles his enrollment.
+[00:33] Office – Brian: That'd be Karen. Let me see if she's at her desk.
+[00:36] [on hold ~3 s]
+[00:39] Office – Brian: She's not picking up. Do you want her voicemail?
+[00:42] Hub agent (Jessica): Before you transfer me, can I quickly tell you what's missing, in case she doesn't get the message?
+[00:48] Office – Brian: Sure, go ahead.
+[00:49] Hub agent (Jessica): The form is missing Doctor Patel's NPI number, and we'll need his most recent liver labs, the ALP, and a note showing how long he was on ursodiol. His insurance requires that for the prior authorization.
+[01:01] Office – Brian: Okay, I'm writing that down. NPI, labs, ursodiol history.
+[01:06] Hub agent (Jessica): That's it. This is actually my second call on Mister Nguyen. Is there a better time to reach Karen?
+[01:12] Office – Brian: Honestly, she's been swamped. Mornings are better. I'll transfer you now.
+[01:23] Voicemail (Karen): Hi, you've reached Karen in the specialty medication office. I'm away from my desk, please leave your name, number, and the patient's name, and I'll return your call.
+[01:34] Hub agent (Jessica): Hi Karen, it's Jessica from the Iqirvo patient support program, calling about Gary Nguyen, date of birth ten twenty one fifty nine. We still need Doctor Patel's NPI, the latest ALP labs, and his ursodiol history for the prior authorization. I've faxed a checklist again today. You can reach me at eight hundred, five five five, zero one four two. Thank you.

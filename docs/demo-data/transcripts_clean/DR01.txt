@@ -1,0 +1,16 @@
+[00:06] Patient (Teresa): Hello?
+[00:07] Hub case manager (Marcus): Hi, may I speak with Teresa Alvarez?
+[00:10] Patient (Teresa): This is Teresa.
+[00:12] Hub case manager (Marcus): Hi Teresa, my name is Marcus, I'm your case manager with the Iqirvo patient support program. Doctor Patel's office enrolled you last week. Before we go on, can you confirm your date of birth for me?
+[00:23] Patient (Teresa): Sure, November third, nineteen seventy two.
+[00:27] Hub case manager (Marcus): Thank you. So I'm calling to welcome you and walk you through what we found with your insurance. Do you have a few minutes?
+[00:33] Patient (Teresa): Yes, I've been waiting to hear. Is it covered?
+[00:37] Hub case manager (Marcus): It is covered by your plan, but it needs a prior authorization, which we've started with Doctor Patel's office. The other thing I want to be upfront about is your deductible. You have a high deductible plan, and it hasn't been met yet this year, so the first fills could cost you quite a bit out of pocket.
+[00:52] Patient (Teresa): How much is quite a bit?
+[00:54] Hub case manager (Marcus): Until the deductible is met, it could be up to around three thousand five hundred dollars. The good news is you're eligible for our copay program, which can bring that down a lot. I'll send you the application today.
+[01:05] Patient (Teresa): Okay... I mean, honestly, even a few hundred a month is a lot for us right now. My husband's been out of work since December.
+[01:14] Hub case manager (Marcus): I'm sorry to hear that, Teresa. That's exactly what the copay program is for, and if you need more help there are other options we can look at.
+[01:21] Patient (Teresa): Okay. I just don't want to start something and then not be able to keep paying for it.
+[01:28] Hub case manager (Marcus): That's completely understandable. Let's get the application in first and see where you land. I'll call you as soon as I hear back on the prior authorization.
+[01:36] Patient (Teresa): Alright. Thank you, Marcus.
+[01:39] Hub case manager (Marcus): You're welcome. Take care, Teresa.

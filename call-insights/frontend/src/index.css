@@ -1,0 +1,172 @@
+@import 'tailwindcss';
+
+/* Theme: Ipsen insight screens v2 deck (navy #013476, orange #FE602F, teal #0F7C80, status green / amber / red).
+   Token names are kept from the Medivo360 portal so every component picks the theme up without layout changes. */
+@theme {
+  --font-sans: 'Figtree', 'Segoe UI', system-ui, -apple-system, sans-serif;
+
+  --color-app-navy: #013476;
+  --color-crm-link: #1a56a8;
+  --color-crm-link-hover: #013476;
+  --color-crm-brand: #1a56a8;
+  --color-crm-brand-dark: #013476;
+  --color-crm-brand-light: #e8eef8;
+  --color-crm-page: #f4f6f9;
+  --color-crm-border: #e3e7ee;
+  --color-crm-header: #f8fafc;
+  --color-crm-row-hover: #f1f5fb;
+  --color-crm-teal: #0f7c80;
+  --color-crm-orange: #fe602f;
+  --color-crm-orange-dark: #e2481a;
+  --color-crm-orange-light: #fff1eb;
+
+  /* Status colours from the deck */
+  --color-ok: #1e8e3e;
+  --color-warn: #e8a317;
+  --color-bad: #c0392b;
+
+  /* Calmer, slightly cooler greys (Tailwind slate re-tuned towards the deck's #5B6472) */
+  --color-slate-50: #f8fafc;
+  --color-slate-100: #eef2f6;
+  --color-slate-200: #e3e7ee;
+  --color-slate-300: #cbd2dc;
+  --color-slate-400: #97a1b0;
+  --color-slate-500: #677284;
+  --color-slate-600: #4f5a6b;
+  --color-slate-700: #364154;
+  --color-slate-800: #1f2a3c;
+  --color-slate-900: #121a2a;
+
+  --ease-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  background-color: var(--color-crm-page);
+  background-image: radial-gradient(1200px 480px at 70% -120px, rgb(1 52 118 / 0.045), transparent 70%);
+  background-attachment: fixed;
+  color: var(--color-slate-800);
+}
+
+::selection {
+  background: rgb(254 96 47 / 0.18);
+}
+
+/* Navy side menu with a soft depth, as in the deck's header bar */
+.app-chrome {
+  background: linear-gradient(180deg, #013476 0%, #012e69 55%, #01285b 100%);
+  box-shadow: inset -1px 0 0 rgb(255 255 255 / 0.06);
+}
+
+/* Cards: hairline border + layered, very soft shadow */
+.card {
+  background: #fff;
+  border: 1px solid var(--color-crm-border);
+  border-radius: 0.875rem;
+  box-shadow:
+    0 1px 2px rgb(1 52 118 / 0.04),
+    0 6px 18px -10px rgb(1 52 118 / 0.12);
+  transition: box-shadow 0.2s var(--ease-smooth), border-color 0.2s var(--ease-smooth);
+}
+
+/* Smooth, consistent motion on everything interactive */
+a,
+button,
+select,
+input,
+[role='button'] {
+  transition-timing-function: var(--ease-smooth);
+  transition-duration: 160ms;
+}
+
+/* Clear keyboard focus without changing mouse behaviour */
+:focus-visible {
+  outline: 2px solid var(--color-crm-brand);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+.link {
+  color: var(--color-crm-link);
+}
+.link:hover {
+  color: var(--color-crm-link-hover);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Numbers line up in tables, tiles and charts */
+table,
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@keyframes slidein {
+  from {
+    transform: translateX(24px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+
+/* Each screen fades in gently when opened */
+@keyframes pagein {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.page-in {
+  animation: pagein 0.32s var(--ease-smooth) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-in,
+  [class*='animate-'] {
+    animation: none !important;
+  }
+  * {
+    transition: none !important;
+  }
+}
+
+/* Quiet scrollbars everywhere */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(151 161 176 / 0.55) transparent;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(151 161 176 / 0.45);
+  border: 2px solid transparent;
+  background-clip: padding-box;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(103 114 132 / 0.6);
+  background-clip: padding-box;
+}
+.scroll-quiet::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}

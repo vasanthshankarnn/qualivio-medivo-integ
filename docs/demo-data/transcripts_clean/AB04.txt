@@ -1,0 +1,9 @@
+[00:06] Office – medical assistant: Children's Liver Clinic, how can I help you?
+[00:09] Access specialist (Tyler): Hi, this is Tyler from the Bylvay patient support program. I'm calling about Mia Brooks, date of birth September third, twenty nineteen, about her prior authorization.
+[00:18] Office – medical assistant: Okay. Did the insurance approve it?
+[00:20] Access specialist (Tyler): Not yet, they need you to send in the prior auth with her records. Just, you know, the usual clinical stuff that supports the diagnosis.
+[00:28] Office – medical assistant: Is there a specific form?
+[00:30] Access specialist (Tyler): I think they have one on their website. You can probably find it there.
+[00:33] Office – medical assistant: Okay, I'll look.
+[00:35] Access specialist (Tyler): Great. Let us know if you need anything.
+[00:37] Office – medical assistant: Okay, thank you.

@@ -1,0 +1,18 @@
+[project]
+name = "call-insights"
+version = "0.1.0"
+description = "Standalone call-insights service: transcribe hub calls, extract conversational signals, label and correlate calls."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "azure-storage-blob>=12.28.0",
+    "fastapi>=0.135.1",
+    "google-genai>=0.2.2",
+    "openpyxl>=3.1.5",
+    "psycopg2-binary>=2.9.11",
+    "pydantic>=2.10.0",
+    "python-dotenv>=1.2.2",
+    "python-multipart>=0.0.22",
+    "requests>=2.32.3",
+    "uvicorn>=0.41.0",
+]

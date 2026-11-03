@@ -1,0 +1,6 @@
+call_id,signal_id,action,reason
+AB05,S37,remove,No name + date of birth stated on this follow-up call (library tagged S37 on all calls)
+AB06,S37,remove,No name + date of birth stated on this follow-up call
+DR03,S37,remove,Patient not identified by date of birth before PA approval and cost are discussed
+DR04,S37,remove,Voicemail - identity cannot be checked
+DR04,S15,remove,No pended or denied PA on this call (voicemail about scheduling)

@@ -1,0 +1,7 @@
+rule,level,group_key,expected,status
+R2,practice,PR01 Lakeview Liver and Digestive Health,"Highest friction score: 5 patients in 4 weeks held up (signature, card copy, weight/ICD/consent, NPI/labs/ursodiol, card again); staff out on 4 calls; backlog admitted on ST05",weights missing - 'Score examples' sheet not in workbook
+R3,patient,PAT-20455 Teresa Alvarez,"Running score with Atul's weights: DR01 cost +2, hardship +1, copay offer -2 = 1 | DR02 logistics +2, local-lab offer -2 = 1 | DR03 hesitation +3, declines +2, application incomplete +1 = 7 (HIGH) | DR04 failed outreach +3 = 10",derived - confirm with Atul whether the DR02 local-lab question counts as a support offer
+R4,process,PA requirement calls AB01-AB04,"Recap + date: AB01, AB03 -> on time (AB06). Generic close: AB02, AB04 -> AB02 case pended for LMN + ursodiol history (AB05)","time-to-decision needs PA milestone dates (synthetic, to confirm)"
+R6,case,every case with a dated promise,"AB01 'call Friday to confirm' kept by AB06 (5 Mar, a day early); others have no follow-up call in the set -> open / not verifiable",needs demo 'today' date (~20 Mar 2027)
+R1,case,UC1 payer + office calls,-,UC1 calls not provided
+R5,payer,-,-,needs weeks of payer calls (background data)
